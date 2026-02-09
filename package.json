@@ -1,0 +1,16 @@
+{
+  "name": "learn-with-jiji-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Learn with Jiji assignment",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Muneesh Nigam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

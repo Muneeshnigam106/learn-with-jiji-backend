@@ -1,5 +1,3 @@
-# learn-with-jiji-backend
-This is  assignment for job
 # Learn with Jiji – Backend API
 
 This project is a backend API created as part of the *VeidaLabs Software Developer Hiring Assignment*.
